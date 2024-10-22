@@ -1,0 +1,33 @@
+
+challanges 
+
+webRTC  => Video calling 
+reference for webrtc => https://youtu.be/ZDiQWv-hjtw?feature=shared
+calling History management 
+messages management
+payment management (kaisa rhega means payment ka flow kya hoga )
+
+web push notification 
+patient activity pr mail /sms
+
+appointment book hone ke baad notification email sms 
+2-5 min earlier 
+
+appointment status ke according bhi patient ko notify krna hoga 
+
+
+///////////////// Backend Estimate Time to complete 1 month rest will depend on requirements (need flexible time ) ///////
+
+My benefits:   
+1. web webRTC  <=>Video calling 
+2. Realtime  patient <=> docter  connection (practice)
+3. Realtime FileTransfer  docter <=> patient 
+4. yaise senario me payment management handle krna ....
+
+
+
+
+
+
+
+

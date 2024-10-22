@@ -1,0 +1,3 @@
+const patientProfileModel = require("../../models/patientModels")
+
+// will start soon ...
